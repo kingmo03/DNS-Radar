@@ -1,10 +1,13 @@
 # ⚡ DNS Radar
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/a90806aa-c9ed-4eb8-bcd6-0a332d2df3ed" width="312" height="312" alt="DNS Radar Icon" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-green?logo=android&logoColor=white" alt="Platform">
   <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen" alt="Open Source">
-  <img src="https://img.shields.io/badge/Material%20Design-3-purple" alt="Material 3">
 </p>
 
 ## 📌 Overview / نظرة عامة
